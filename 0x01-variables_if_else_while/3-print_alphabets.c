@@ -3,8 +3,10 @@
 #include <time.h>
 
  /**
-  * main - Entry point
-  *
+  * main - Coding is an art 
+  * Description : this program prints alphabet in lowercase
+  * and then in uppercase
+  * followed by a new line
   * Return: Always 0 (Success)
   */
 
@@ -20,4 +22,3 @@ int main(void)
 
 	return (0);
 }
-
