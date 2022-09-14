@@ -4,6 +4,7 @@
  * description: Prints a-z in lowercase 10 times
  * Return: void
  */
+
 void print_alphabet_x10(void)
 {
 	char c;
@@ -16,7 +17,7 @@ void print_alphabet_x10(void)
 			_putchar(c);
 		}
 
-		_putchar(c);
+		_putchar('\n');
 
 		i++;
 	}
